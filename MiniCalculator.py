@@ -1,7 +1,9 @@
 # A mini calculator that can calculate mean, median and mode
 
+list = [int(item) for item in input("Enter the list items : ").split()]
+
 # Mean
-list1 = [12, 16, 20, 20, 12, 30, 25, 23, 24, 20]
+list1 = list
 mean = sum(list1)/len(list1)
 print(mean)
 
