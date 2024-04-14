@@ -8,3 +8,5 @@ A. Basic Projects
 5. Calculate Execution Time of a Programme
 6. Creating Dummy Data
 7. LCM
+8. Queues
+9. Stacks
